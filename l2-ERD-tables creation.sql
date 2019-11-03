@@ -1,3 +1,4 @@
+-- Tables should be created in WORKING schema
 CREATE TABLE xx_warehouse (
     warehouse_id       NUMBER PRIMARY KEY,
     warehouse_name     VARCHAR2(200),
